@@ -63,11 +63,17 @@ Evidently, we should expect the polarization angle to change linearly with dista
 Given a 1T magnetic field, the cyclotron frequency will be about 30 GHz. 
 For our purposes, we are interested in light with a wavelength around 10 microns or a frequency of about 30 THz. 
 Given the three orders of magnitude that separate these frequencies we can make the following approximation, 
-$$ n_+ - n_- \approx \frac{4 \pi n_e e^2 \omega \omega_c }{ m(\omega_0^2-\omega^2)^2} $$
+```math
+n_+ - n_- \approx \frac{4 \pi n_e e^2 \omega \omega_c }{ m(\omega_0^2-\omega^2)^2}
+```
 so the rotation with propagation distance is given by 
-$$ \frac{d\theta}{dz} = \frac{2 \pi n_e e^2 \omega^2 \omega_c }{m (\omega_0^2-\omega^2)^2} $$
+```math
+\frac{d\theta}{dz} = \frac{2 \pi n_e e^2 \omega^2 \omega_c }{m (\omega_0^2-\omega^2)^2}
+```
 If the electromagnetic wave has frequency much higher than the natural oscillation frequence of the atoms, $\omega >> \omega_0$, the change in polarization angle can be written 
-$$ \Delta \theta = \frac{e^3 \lambda^2}{2 \pi m^2 c^4} \int_{C} n_e(z) B_{\parallel}(z) dz $$
+```math
+\Delta \theta = \frac{e^3 \lambda^2}{2 \pi m^2 c^4} \int_{C} n_e(z) B_{\parallel}(z) dz 
+```
 but $n_e(z)$ and $B_{\parallel}(z)$ can typically be assumed to be uniform. 
 
 It is clear that, given prior knowledge about the magnetic field, electron density, or source polarization, a measurement of the final polarization angle at different wavelengths can be useful to infer the unknown properties of the material. 
