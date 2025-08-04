@@ -76,7 +76,7 @@ If the electromagnetic wave has frequency much higher than the natural oscillati
 ```
 but $n_e(z)$ and $B_{\parallel}(z)$ can typically be assumed to be uniform. 
 
-It is clear that, given prior knowledge about the magnetic field, electron density, or source polarization, a measurement of the final polarization angle at different wavelengths can be useful to infer the unknown properties of the material. 
+Given prior knowledge of any of the magnetic field, electron density, or source polarization, a measurement of the final polarization angle at different wavelengths can be useful to infer the other unknown properties of the material. 
 Astronomers make use of this fact, and use polarimetric measurements of light from distant sources to infer the properties of interstellar media such as gas clouds. 
 
 We derived the Faraday effect by considering a material composed of electric dipoles, but the polarization rotation may also be computed from a model where the material is composed of magnetic dipoles. 
