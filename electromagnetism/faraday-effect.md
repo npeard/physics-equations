@@ -50,7 +50,7 @@ $$ \vec{E}_- = \frac{E_0}{\sqrt{2}} \begin{pmatrix} \cos(\frac{\omega n_- z}{c} 
 
 from which we can write the vector for the combined linearly-polarized wave 
 
-$$ \vec{E} =  \frac{E_0}{\sqrt{2}} \begin{pmatrix} \cos(\frac{\omega n z}{c} - \omega t) \cos(\frac{\omega}{2c} [ n_+ - n_-] z) \\\ \cos(\frac{\omega n z}{c} - \omega t) \sin(\frac{\omega}{2c} [ n_+ - n_-] z) \\\ \end{pmatrix} $$
+$$ \vec{E} = \frac{E_0}{\sqrt{2}} \begin{pmatrix} \cos(\frac{\omega n z}{c} - \omega t) \cos(\frac{\omega}{2c} [ n_+ - n_-] z) \\\ \cos(\frac{\omega n z}{c} - \omega t) \sin(\frac{\omega}{2c} [ n_+ - n_-] z) \\\ \end{pmatrix} $$
 
 where $n = \frac{1}{2} (n_+ + n_-)$ is the average refractive index. 
 The polarization angle is then 
