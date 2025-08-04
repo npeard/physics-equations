@@ -44,13 +44,13 @@ The dependence of the Faraday rotation on the presence of a magnetic field leads
 
 We can calculate the amount of rotation of the linear polarization as follows. Based on our calculation of the refractive index, we can write the electric field vector of the circularly-polarized waves as 
 
-$$ \vec{E}_+ = \frac{E_0}{\sqrt{2}} \begin{pmatrix} \cos(\frac{\omega n_+ z}{c} - \omega t) \\ i \sin(\frac{\omega n_+ z}{c} - \omega t) \\ \end{pmatrix} $$
+$$ \vec{E}_+ = \frac{E_0}{\sqrt{2}} \begin{pmatrix} \cos(\frac{\omega n_+ z}{c} - \omega t) \\\ i \sin(\frac{\omega n_+ z}{c} - \omega t) \\\ \end{pmatrix} $$
 
-$$ \vec{E}_- = \frac{E_0}{\sqrt{2}} \begin{pmatrix} \cos(\frac{\omega n_- z}{c} - \omega t) \\ i \sin(\frac{\omega n_- z}{c} - \omega t) \\ \end{pmatrix} $$
+$$ \vec{E}_- = \frac{E_0}{\sqrt{2}} \begin{pmatrix} \cos(\frac{\omega n_- z}{c} - \omega t) \\\ i \sin(\frac{\omega n_- z}{c} - \omega t) \\\ \end{pmatrix} $$
 
 from which we can write the vector for the combined linearly-polarized wave 
 
-$$ \vec{E} =  \frac{E_0}{\sqrt{2}} \begin{pmatrix} \cos(\frac{\omega n z}{c} - \omega t) \cos(\frac{\omega}{2c} [ n_+ - n_-] z) \\ \cos(\frac{\omega n z}{c} - \omega t) \sin(\frac{\omega}{2c} [ n_+ - n_-] z) \\ \end{pmatrix} $$
+$$ \vec{E} =  \frac{E_0}{\sqrt{2}} \begin{pmatrix} \cos(\frac{\omega n z}{c} - \omega t) \cos(\frac{\omega}{2c} [ n_+ - n_-] z) \\\ \cos(\frac{\omega n z}{c} - \omega t) \sin(\frac{\omega}{2c} [ n_+ - n_-] z) \\\ \end{pmatrix} $$
 
 where $n = \frac{1}{2} (n_+ + n_-)$ is the average refractive index. 
 The polarization angle is then 
