@@ -1,8 +1,7 @@
 # Physics Equations Repository
 
 This repository contains a modularized collection of physics equations and concepts, organized by topic.
-It is my personal reference (not exhaustive) of factors of $2\pi$, $-1$, etc., and other physics equation quirks that I refer to frequently.  
-The content has been converted from LaTeX to Markdown format, following the convention of one sentence per line.
+It serves as a reference (not exhaustive) of factors of $2\pi$, $-1$, etc., and other physics equation quirks that I refer to frequently.
 
 ## Table of Contents
 
